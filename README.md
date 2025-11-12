@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kandiikitten/kandiikitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/qG6j65c.png" width="450" alt="kandiikitten"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ❀ Hi~ I'm **Kandii** ❀
+**Aspiring Web Wizard • AI & Blockchain Explorer**
+
+```text
+🌱 Learning: HTML/CSS/JS → Python
+🔥 Passion: Web Apps, DApps, Social Media, AI Tools
+🎯 Goal: Build my first full-stack DApp + AI chatbot in 2026
+
+[![GitHub followers](https://img.shields.io/github/followers/kandiikitten?style=social)](https://github.com/kandiikitten)
+[![Twitter](https://img.shields.io/twitter/follow/kandiixkitten?style=social&logo=twitter)](https://twitter.com/kandiixkitten)
+
