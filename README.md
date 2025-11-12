@@ -12,5 +12,4 @@
 🎯 Goal: Build my first full-stack DApp + AI chatbot in 2026
 
 [![GitHub followers](https://img.shields.io/github/followers/kandiikitten?style=social)](https://github.com/kandiikitten)
-[![Twitter](https://img.shields.io/twitter/follow/kandiixkitten?style=social&logo=twitter)](https://twitter.com/kandiixkitten)
-
+[![Twitter](https://img.shields.io/twitter/follow/kandiikitten?style=social&logo=twitter)](https://twitter.com/kandiikitten)
