@@ -30,7 +30,7 @@
 HTML/CSS        💗💗💗🤍🤍🤍🤍🤍🤍🤍  (32%)    │ JavaScript    💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (17%)
 Python          💗💗💗🤍🤍🤍🤍🤍🤍🤍  (27%)    │ Git           💗💗🤍🤍🤍🤍🤍🤍🤍🤍  (22%)
 VS Code         💗💗💗💗💗🤍🤍🤍🤍🤍  (50%)    │ Terminal      💗💗💗🤍🤍🤍🤍🤍🤍🤍  (25%)
-Machine Learning 💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)    │ Trading Bots  💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)
+Machine Learning 💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)   │ Trading Bots  💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)
 Crypto Data     💗💗🤍🤍🤍🤍🤍🤍🤍🤍  (20%)    │ Sol Sniping   💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (12%)
 
 
