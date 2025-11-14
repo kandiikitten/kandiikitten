@@ -4,15 +4,15 @@
 <img src="https://i.imgur.com/qG6j65c.png" width="450" alt="kandiikitten"/>
 
 # ❀ Hi~ I'm **Kandii** ❀
-**Aspiring Web Wizard • AI & Blockchain Explorer**
+**Learning to code • One tiny project at a time**
 
 <div align="left">
 
 ```text
 
-🌱 Learning: HTML/CSS/JS → Python
+🌱 Learning: HTML & Python
 🔥 Passion: Web Apps, DApps, Social Media, AI Tools
-🎯 Goal: Build my first full-stack DApp + AI chatbot in 2026
+🎯 Goal: Trying to build my first website + crypto tools
 ```
 </div>
 
@@ -20,3 +20,15 @@
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/kandiixkitten?style=social&logo=twitter)](https://twitter.com/kandiixkitten)
 
+```text
+
+*What I Know So Far**
+
+HTML/CSS        💗💗💗🤍🤍🤍🤍🤍🤍🤍  (32%)    │ JavaScript    💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (17%)
+Python          💗💗💗🤍🤍🤍🤍🤍🤍🤍  (27%)    │ Git           💗💗🤍🤍🤍🤍🤍🤍🤍🤍  (22%)
+VS Code         💗💗💗💗💗🤍🤍🤍🤍🤍  (50%)    │ Terminal      💗💗💗🤍🤍🤍🤍🤍🤍🤍  (25%)
+Machine Learning 💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)    │ Trading Bots  💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (15%)
+Crypto Data     💗💗🤍🤍🤍🤍🤍🤍🤍🤍  (20%)    │ Sol Sniping   💗🤍🤍🤍🤍🤍🤍🤍🤍🤍  (12%)
+
+```
+</div>
